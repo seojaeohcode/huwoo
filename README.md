@@ -23,11 +23,11 @@
 
 ### 영상 1
 
-<!-- 영상 링크 또는 임베드 넣기 -->
 
-### 영상 2
 
-<!-- 영상 링크 또는 임베드 넣기 -->
+https://github.com/user-attachments/assets/df26a794-3313-408c-91aa-935ce50c9fa4
+
+
 
 ---
 
