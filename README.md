@@ -1,6 +1,4 @@
-<p align="center">
-  <strong>🏆 2025 AI기반 창업창의력 Jump-UP 대상 (전남대학교 총장상) 🏆</strong>
-</p>
+<h2 align="center">🏆 2025 AI기반 창업창의력 Jump-UP 대상 (전남대학교 총장상) 🏆</h2>
 
 ---
 
@@ -10,7 +8,7 @@
   <img src="https://img.shields.io/badge/Bluetooth-HC--06-0082FC?style=flat&logo=bluetooth&logoColor=white" alt="Bluetooth"/>
 </p>
 
-# 🦉 Hoowoo (후우)
+# 🕰️ Hoowoo (후우)
 
 <p align="center">
   <em>호흡으로 끄는 스마트 알람 시계</em>
