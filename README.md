@@ -1,4 +1,4 @@
-<h2 align="center">🏆 2025 AI기반 창업창의력 Jump-UP 대상 (전남대학교 총장상) 🏆</h2>
+<h1 align="center">🏆 2025 AI기반 창업창의력 Jump-UP 대상 (전남대학교 총장상) 🏆</h1>
 
 ---
 
